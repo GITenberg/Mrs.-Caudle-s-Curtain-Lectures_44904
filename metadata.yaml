@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1922
     wikipedia: http://en.wikipedia.org/wiki/Douglas_William_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44904#Mrs.-Caudle-s-Curtain-Lectures
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
