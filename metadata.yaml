@@ -1,0 +1,41 @@
+_repo: Mrs.-Caudle-s-Curtain-Lectures_44904
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerrold, Douglas William
+    aliases:
+    - Whitefeather, Barabbas
+    - Jerrold, D. W. (Douglas William)
+    - Brownrigg, Henry
+    birthdate: 1803
+    deathdate: 1857
+    gutenberg_agent_id: '1922'
+    url: http://www.gutenberg.org/2009/agents/1922
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_William_Jerrold
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PR'
+- !lcsh 'Marriage -- Humor'
+title: Mrs. Caudle's Curtain Lectures
+url: http://www.gutenberg.org/ebooks/44904
